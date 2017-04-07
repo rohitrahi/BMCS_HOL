@@ -29,6 +29,6 @@ Step 5: You can now format (if needed) and mount the volume. To get a list of mo
 Run the following commands
 
 [opc@ MEAN-VM ~]$ sudo mkfs -t ext4 /dev/sdb
-# Press y when prompted 
+Press y when prompted 
 [opc@ MEAN-VM ~]$ sudo mkdir /mnt/home
 [opc@ MEAN-VM ~]$ sudo mount /dev/sdb /mnt/home
