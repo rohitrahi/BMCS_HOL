@@ -9,8 +9,7 @@ A Virtual Cloud Network (VCN) is a virtual version of a traditional network—in
 
 Step 1: After you login, navigate to the networking tab and select Virtual Cloud Networks.
 
- 
-
+![exercise2-image1](https://cloud.githubusercontent.com/assets/15100739/24786939/f094ceb6-1b19-11e7-84f2-8516b056738a.PNG)
 
 Step 2: Create a Cloud Network by specifying a name for your VCN and selecting the “Create VIRTUAL CLOUD NETWORK PLUS RELATED RESOURCES” option. This will create a VCN, Subnets, Routing Table, Security Groups and Internet Gateway using a 10.0.0.0/16 CIDR range. Scroll to the bottom of the screen and click “create Virtual Cloud Network” button.
 
