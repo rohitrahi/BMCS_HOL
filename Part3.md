@@ -1,4 +1,5 @@
-Exercise 3: Launch a Virtual Machine (VM) Instance
+# Exercise 3: Launch a Virtual Machine (VM) Instance
+
 Step 1: Navigate to the Compute tab and click Launch Instance. We will launch a VM instance for this lab.  
  
 ![exercise3-image1](https://cloud.githubusercontent.com/assets/15100739/24787059/d98e716c-1b1a-11e7-90b1-ee63d81c54d3.PNG)
