@@ -14,8 +14,14 @@ If you already have a public / private key pair, you can use that for SSH. If yo
 ## Table of Contents
 
 [Exercise 1: Sign into the console] (https://github.com/rohitrahi/BMCS_HOL/blob/master/Part1.md)
+
 [Exercise 2: Create a Virtual Cloud Network (VCN)] (https://github.com/rohitrahi/BMCS_HOL/blob/master/Part2.md)
+
 [Exercise 3: Launch a Virtual Machine instance] (https://github.com/rohitrahi/BMCS_HOL/blob/master/Part3.md)
+
 [Exercise 4: Connect to the instance] (https://github.com/rohitrahi/BMCS_HOL/blob/master/Part4.md)
+
 [Exercise 5: Create and mount Block Volume storage] (https://github.com/rohitrahi/BMCS_HOL/blob/master/Part5.md)
+
 [Exercise 6: Download and Configure MEAN stack] (https://github.com/rohitrahi/BMCS_HOL/blob/master/Part6.md)
+
