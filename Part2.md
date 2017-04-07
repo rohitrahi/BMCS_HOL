@@ -13,11 +13,8 @@ Step 1: After you login, navigate to the networking tab and select Virtual Cloud
 
 Step 2: Create a Cloud Network by specifying a name for your VCN and selecting the “Create VIRTUAL CLOUD NETWORK PLUS RELATED RESOURCES” option. This will create a VCN, Subnets, Routing Table, Security Groups and Internet Gateway using a 10.0.0.0/16 CIDR range. Scroll to the bottom of the screen and click “create Virtual Cloud Network” button.
 
- 
-
- 
-
-
+![exercise2-image2](https://cloud.githubusercontent.com/assets/15100739/24786989/48111492-1b1a-11e7-9287-ab1d1e399ac1.PNG) 
 
 Once the VCN is created, navigating to list of VCN’s, you can see the “MEAN-VCN”, which you just created in the step above.
  
+![exercise2-image3](https://cloud.githubusercontent.com/assets/15100739/24786998/51c5ed6e-1b1a-11e7-80a3-420096480eab.PNG)
